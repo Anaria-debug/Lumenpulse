@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1573-mobile-submit-verification-requests-with",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1573-mobile-submit-verification-requests-with": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1573-mobile-submit-verification-requests-with",
+    "origin"
+  ]
+}
